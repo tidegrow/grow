@@ -12,8 +12,8 @@ Grow has a [Zwölf](https://github.com/machdyne/zwolf) MCU socket that can be us
 
 | Pin | Signal | Description |
 | --- | ------ | ----------- |
-| 1 | SCL | Power (5V) |
-| 2 | SDA | LED PWM control input (3.3V) |
+| 1 | SCL | I2C clock |
+| 2 | SDA | I2C data |
 | 3 | EN | Float = ON, Low = OFF |
 | 4 | TEMP | Board temperature (0V - 1.1V) |
 | 5 | GND | Ground |
