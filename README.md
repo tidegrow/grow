@@ -4,6 +4,10 @@ Tidegrow Grow is an experimental low-power grow light system. Boards can be chai
 
 ![Grow](https://github.com/tidegrow/grow/blob/d1d28b5c89ea32b7ace8af1ea5e130b1900a3061/grow.png)
 
+This repo contains schematics, PCB layouts, firmware and 3D-printable components.
+
+Find more information on the [Grow product page](https://machdyne.com/product/tidegrow-grow/).
+
 ## Pinouts
 
 ### Zwölf
