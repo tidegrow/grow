@@ -2,6 +2,8 @@
 
 Tidegrow Grow is an experimental low-power grow light system. Boards can be chained to create custom panels.
 
+![Grow](https://github.com/tidegrow/grow/blob/d1d28b5c89ea32b7ace8af1ea5e130b1900a3061/grow.png)
+
 ## Pinouts
 
 ### Zwölf
@@ -9,7 +11,7 @@ Tidegrow Grow is an experimental low-power grow light system. Boards can be chai
 Grow has a [Zwölf](https://github.com/machdyne/zwolf) MCU socket that can be used to implement a timer, PWM dimming, I2C remote control, etc.
 
 | Pin | Signal | Description |
-| ------ | ----------- |
+| --- | ------ | ----------- |
 | 1 | SCL | Power (5V) |
 | 2 | SDA | LED PWM control input (3.3V) |
 | 3 | EN | Float = ON, Low = OFF |
